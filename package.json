@@ -1,0 +1,9 @@
+{
+  "name": "forest-survival-server",
+  "version": "1.0.0",
+  "description": "Сервер для игры «Лес (выживание)»",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=16" },
+  "license": "MIT"
+}
